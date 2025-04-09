@@ -1,12 +1,8 @@
-Hi!
+My [certificates](https://github.com/aruslantsev/Certificates)
 
-My name is Andrei and I am MLE/DS teamlead.
+My [dotfiles](https://github.com/aruslantsev/dotfiles)
 
-[My certificates](https://github.com/aruslantsev/Certificates)
-
-[My dotfiles](https://github.com/aruslantsev/dotfiles)
-
-[My system configuration files](https://github.com/aruslantsev/system-configs)
+My [system configuration files](https://github.com/aruslantsev/system-configs)
 
 [Gentoo overlay](https://github.com/aruslantsev/gentoo-overlay)
 
