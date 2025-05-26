@@ -8,7 +8,9 @@ My [system configuration files](https://github.com/aruslantsev/system-configs)
 
 [Daemon to spin down inactive disks in NAS](https://github.com/aruslantsev/disks-spindown)
 
-[Program for searching for image duplicates](https://github.com/aruslantsev/imgdupes)
+[Script to set up remote ssh tunnels](https://github.com/aruslantsev/ssh-remote)
+
+[Python script for searching for image duplicates](https://github.com/aruslantsev/imgdupes)
 
 [OpenVPN monitoring](https://github.com/aruslantsev/openvpn-monitor)
 
