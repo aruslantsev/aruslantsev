@@ -1,4 +1,4 @@
-- [ertificates](https://github.com/aruslantsev/Certificates)
+- [Certificates](https://github.com/aruslantsev/Certificates)
 
 - [dotfiles](https://github.com/aruslantsev/dotfiles)
 
