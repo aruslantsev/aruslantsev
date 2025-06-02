@@ -1,22 +1,22 @@
-My [certificates](https://github.com/aruslantsev/Certificates)
+- [ertificates](https://github.com/aruslantsev/Certificates)
 
-My [dotfiles](https://github.com/aruslantsev/dotfiles)
+- [dotfiles](https://github.com/aruslantsev/dotfiles)
 
-My [system configuration files](https://github.com/aruslantsev/system-configs)
+- [system configuration files and some scripts](https://github.com/aruslantsev/system-configs)
 
-[Gentoo overlay](https://github.com/aruslantsev/gentoo-overlay)
+- [Gentoo overlay](https://github.com/aruslantsev/gentoo-overlay)
 
-[Daemon to spin down inactive disks in NAS](https://github.com/aruslantsev/disks-spindown)
+- [Script](https://github.com/aruslantsev/disks-spindown) to spin down HDDs after a period of inactivity when APM does not work.
 
-[Script to set up remote ssh tunnels](https://github.com/aruslantsev/ssh-remote)
+- [Script](https://github.com/aruslantsev/ssh-remote) to set up remote ssh tunnels to organize access to a server without a white IP.
 
-[Python script for searching for image duplicates](https://github.com/aruslantsev/imgdupes)
+- Python [script](https://github.com/aruslantsev/imgdupes) for searching for image duplicates
 
-[OpenVPN monitoring](https://github.com/aruslantsev/openvpn-monitor)
+- [OpenVPN monitoring](https://github.com/aruslantsev/openvpn-monitor)
 
-[Cheatsheets](https://github.com/aruslantsev/cheatsheets)
+- [Cheatsheets](https://github.com/aruslantsev/cheatsheets)
 
-[Some pieces of code](https://github.com/aruslantsev/coding-demo)
+- [Some pieces of code](https://github.com/aruslantsev/coding-demo)
 
 <!--
 ## Hi there 👋
