@@ -16,8 +16,6 @@
 
 - [OpenVPN monitoring](https://github.com/aruslantsev/openvpn-monitor)
 
-- [Cheatsheets](https://github.com/aruslantsev/cheatsheets)
-
 - Solved [leetcode](https://github.com/aruslantsev/Leetcode) tasks
 
 - [Simpletron](https://github.com/aruslantsev/Simpletron) emulator from Deitel&Deitel
@@ -25,6 +23,12 @@
 - [Some pieces of code](https://github.com/aruslantsev/coding-demo)
 
 - [Habrareader](https://github.com/aruslantsev/habrareader) WIP: save articles from habr.ru
+
+- [Cheatsheets](https://github.com/aruslantsev/cheatsheets)
+
+- Outdated projects
+
+  - [PyMON](https://github.com/aruslantsev/pymon): monitor for WD MyBookLive Duo
 
 <!--
 ## Hi there 👋
