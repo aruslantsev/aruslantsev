@@ -4,7 +4,7 @@
 
 - [system configuration files and some scripts](https://github.com/aruslantsev/system-configs)
 
-- [Scripts to make beautiful shell](https://github.com/aruslantsev/beautiful-shell)
+- [WIP] [Scripts to make beautiful shell](https://github.com/aruslantsev/beautiful-shell)
 
 - [Gentoo overlay](https://github.com/aruslantsev/gentoo-overlay)
 
@@ -14,21 +14,18 @@
 
 - Python [script](https://github.com/aruslantsev/imgdupes) for searching for image duplicates
 
-- [OpenVPN monitoring](https://github.com/aruslantsev/openvpn-monitor)
-
 - Solved [leetcode](https://github.com/aruslantsev/Leetcode) tasks
 
 - [Simpletron](https://github.com/aruslantsev/Simpletron) emulator from Deitel&Deitel
 
 - [Some pieces of code](https://github.com/aruslantsev/coding-demo)
 
-- [Habrareader](https://github.com/aruslantsev/habrareader) WIP: save articles from habr.ru
-
-- [Cheatsheets](https://github.com/aruslantsev/cheatsheets)
+- [WIP] [Habrareader](https://github.com/aruslantsev/habrareader) save articles from habr.ru
 
 - Outdated projects
 
   - [PyMON](https://github.com/aruslantsev/pymon): monitor for WD MyBookLive Duo
+  - [OpenVPN monitoring](https://github.com/aruslantsev/openvpn-monitor): monitor traffic by user in openvpn
 
 <!--
 ## Hi there 👋
