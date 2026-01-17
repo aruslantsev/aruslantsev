@@ -8,8 +8,9 @@
 - [ImgDupes](https://github.com/aruslantsev/imgdupes) python script for searching for image duplicates
 - Solved [leetcode](https://github.com/aruslantsev/Leetcode) tasks
 - [Simpletron](https://github.com/aruslantsev/Simpletron) emulator from Deitel&Deitel
-- [Some pieces of code](https://github.com/aruslantsev/coding-demo)
 - [WIP] [Habrareader](https://github.com/aruslantsev/habrareader): save articles from habr.ru
+- [Embedded](https://github.com/aruslantsev/embedded): libs for different sensors, displays etc.
+- [Some pieces of code](https://github.com/aruslantsev/coding-demo)
 - Outdated projects
   - [PyMON](https://github.com/aruslantsev/pymon): monitor for WD MyBookLive Duo
   - [OpenVPN monitoring](https://github.com/aruslantsev/openvpn-monitor): monitor traffic by user in openvpn
