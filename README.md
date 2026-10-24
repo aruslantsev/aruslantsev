@@ -1,10 +1,10 @@
 - [Certificates, PhD dissertation, theses, etc.](https://github.com/aruslantsev/Certificates)
 - [dotfiles](https://github.com/aruslantsev/dotfiles)
 - [system configuration files and some scripts](https://github.com/aruslantsev/system-configs)
-- [WIP] [Scripts to make beautiful shell](https://github.com/aruslantsev/beautiful-shell)
-- [Gentoo overlay](https://github.com/aruslantsev/gentoo-overlay)
+- [Scripts to make beautiful shell](https://github.com/aruslantsev/beautiful-shell)
 - [Disks spindown](https://github.com/aruslantsev/disks-spindown): bash script, openrc startup script and systemd unit to spin down HDDs after a period of inactivity.
 - [SSH remote tunnel](https://github.com/aruslantsev/ssh-remote): bash script, openrc startup script and systemd unit to set up remote ssh tunnels to organize access to a server without a white IP.
+- [Gentoo overlay](https://github.com/aruslantsev/gentoo-overlay)
 - [ImgDupes](https://github.com/aruslantsev/imgdupes) python script for searching for image duplicates
 - Solved [leetcode](https://github.com/aruslantsev/Leetcode) tasks
 - [Simpletron](https://github.com/aruslantsev/Simpletron) emulator from Deitel&Deitel
